@@ -1,5 +1,5 @@
 # IS340_INTRO
-CSULB IS340 INTRO SUMMER 2022
+California State University of Long Beach (CSULB) IS340 INTRO SUMMER 2022
 
 ## Infomation
 
