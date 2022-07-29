@@ -37,7 +37,7 @@ as well such as Java, C++, C if you are feeling ambitious.
 
 Are you tired of keeping track of your code by making copies of your file and renaming
 them? You’re in luck because Github is a version control system that keeps track
-of changes in your code. It works similarly to Google Doc which most of us are
+of changes in your code. It works similarly to Google Drive which most of us are
 familiar with.
 https://www.youtube.com/watch?v=iv8rSLsi1xo&ab_channel=AnsonAlexander
 
