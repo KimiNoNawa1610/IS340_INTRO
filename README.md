@@ -42,4 +42,4 @@ familiar with.
 https://www.youtube.com/watch?v=iv8rSLsi1xo&ab_channel=AnsonAlexander
 
 ## Something that you can check out for fun:
-* [Basic Games] https://pypi.org/project/freegames/
+* Basic Games: https://pypi.org/project/freegames/
