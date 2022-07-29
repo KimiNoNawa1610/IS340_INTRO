@@ -41,4 +41,5 @@ of changes in your code. It works similarly to Google Doc which most of us are
 familiar with.
 https://www.youtube.com/watch?v=iv8rSLsi1xo&ab_channel=AnsonAlexander
 
-
+## Something that you can check out for fun:
+* [Basic Games] https://pypi.org/project/freegames/
