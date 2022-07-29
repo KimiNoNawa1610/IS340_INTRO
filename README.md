@@ -19,9 +19,9 @@ might be easier)
 https://www.geeksforgeeks.org/download-and-install-python-3-latest-version
 
 *Video guide for installing:
-Windows: https://youtu.be/UvcQlPZ8ecA
-Mac OS: https://youtu.be/TgA4ObrowRg
-Linux: https://youtu.be/z3Hdewxuuoo
++Windows: https://youtu.be/UvcQlPZ8ecA
++Mac OS: https://youtu.be/TgA4ObrowRg
++Linux: https://youtu.be/z3Hdewxuuoo
 
 ### Python Guide
 
